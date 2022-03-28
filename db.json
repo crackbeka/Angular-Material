@@ -1,0 +1,30 @@
+{
+  "ProductList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New ",
+      "price": 2,
+      "date": "2022-03-01T20:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New ",
+      "price": 3,
+      "date": "2022-03-01T20:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
